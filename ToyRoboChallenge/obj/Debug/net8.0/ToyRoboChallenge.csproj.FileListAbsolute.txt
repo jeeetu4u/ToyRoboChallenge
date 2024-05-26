@@ -1,0 +1,14 @@
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\bin\Debug\net8.0\ToyRoboChallenge.exe
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\bin\Debug\net8.0\ToyRoboChallenge.deps.json
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\bin\Debug\net8.0\ToyRoboChallenge.runtimeconfig.json
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\bin\Debug\net8.0\ToyRoboChallenge.dll
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\bin\Debug\net8.0\ToyRoboChallenge.pdb
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\obj\Debug\net8.0\ToyRoboChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\obj\Debug\net8.0\ToyRoboChallenge.AssemblyInfoInputs.cache
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\obj\Debug\net8.0\ToyRoboChallenge.AssemblyInfo.cs
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\obj\Debug\net8.0\ToyRoboChallenge.csproj.CoreCompileInputs.cache
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\obj\Debug\net8.0\ToyRoboChallenge.dll
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\obj\Debug\net8.0\refint\ToyRoboChallenge.dll
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\obj\Debug\net8.0\ToyRoboChallenge.pdb
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\obj\Debug\net8.0\ToyRoboChallenge.genruntimeconfig.cache
+C:\Users\MrJit\source\repos\ToyRoboChallenge\ToyRoboChallenge\obj\Debug\net8.0\ref\ToyRoboChallenge.dll

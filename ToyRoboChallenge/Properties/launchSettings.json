@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ToyRoboChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\MrJit\\source\\repos\\ToyRoboChallenge\\ToyRoboChallenge\\input commands.txt\""
+    }
+  }
+}
